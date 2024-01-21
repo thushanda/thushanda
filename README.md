@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🎓 Undergraduate Student in HND Software Development
 📍 Currently based in UAE, originally from Sri Lanka
 
-📧 Damjithfernando1@gmail.com | 🐦 @TDamjith | 🔗 www.linkedin.com/in/thushanda
+📧 Damjithfernando1@gmail.com | 🐦 https://twitter.com/DamjithThu1753 | 🔗 www.linkedin.com/in/thushanda
 Hello, fellow developers! 👋 I'm a passionate UI/UX designer and Java enthusiast with a knack for crafting seamless and visually appealing user experiences. As an undergraduate student pursuing HND in Software Development, I'm constantly honing my skills in Angular, React, and Spring Boot.
 
 💡 What I Do:
@@ -36,9 +36,9 @@ I'm on a mission to learn, innovate, and make a mark in the world of software de
 
 🔗 Connect with Me:
 
-🌐 Explore my work: [Your Portfolio Website]
+🌐 Explore[ my work: [Your Portfolio Website]
 📧 Reach out: Damjithfernando1@gmail.com
-🐦 Twitter: @TDamjith
+🐦 Twitter: https://twitter.com/DamjithThu1753
 🔗 LinkedIn: www.linkedin.com/in/thushanda
 🚀 Let's code the future together!
 
